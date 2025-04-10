@@ -24,3 +24,8 @@ To run the project, simply open the directory and type the following command in 
 
 Then go to the local url that the console shows.
 The default path is <code>127.0.0.1:8000</code>
+
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ComradeMohan-PAGE_REPLACEMENT/count.svg" />
+</p>
